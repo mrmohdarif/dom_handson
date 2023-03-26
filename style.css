@@ -1,0 +1,31 @@
+.question1,.question2,.question3,.question4,.question5,.question6,.question7,.question8,.question9
+,.question10{
+    border: 5px solid red;
+    margin-bottom: 5px;
+}
+.question5,.question6{
+    padding: 20px;
+}
+.btn,.direction{
+     padding: 10px;
+     margin: 10px;
+}
+
+.color{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 10px;
+
+}
+.flex{
+    display: flex;
+}
+.demo{
+    font-size: 70px;
+    font-weight: bold;
+    color: blue;
+}
+a:link{
+    font-size: 35px;
+}
